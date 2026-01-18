@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1768749227950",
+    "name": "Test User",
+    "email": "test@example.com",
+    "passwordHash": "$2b$12$T7u2OeGCJTSPf/yfDf39/emaqvJvM9hfk9qOOaFHVPsYtJXA85Fca",
+    "createdAt": "2026-01-18T15:13:47.950Z"
+  },
+  {
+    "id": "1768750590302",
+    "name": "Auth Test",
+    "email": "auth@test.com",
+    "passwordHash": "$2b$12$x/xgTPaJI9igikSCC7AVGedLAmm1QtCO3PCwsBunMCW/LP4YcZIkO",
+    "createdAt": "2026-01-18T15:36:30.302Z"
+  },
+  {
+    "id": "1768750981981",
+    "name": "Nissam I",
+    "email": "nissam@gmail.com",
+    "passwordHash": "$2b$12$ojnkf87eY1sW8y71Csnup.h.jTaH0kg7edsE/5HS1eOpov1TaskjS",
+    "createdAt": "2026-01-18T15:43:01.981Z"
+  }
+]
